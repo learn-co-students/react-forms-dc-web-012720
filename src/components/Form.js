@@ -4,6 +4,7 @@ class Form extends React.Component {
   render() {
     return (
       <div>
+        {/* could put <form onSubmit = > */}
         <form>
           <input
             type="text"
